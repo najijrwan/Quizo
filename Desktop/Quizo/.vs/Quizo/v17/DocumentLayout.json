@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\96170\\source\\repos\\Quizo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|c:\\users\\96170\\source\\repos\\quizo\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|solutionrelative:main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|C:\\Users\\96170\\source\\repos\\Quizo\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|solutionrelative:main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|c:\\users\\96170\\source\\repos\\quizo\\loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|solutionrelative:loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|C:\\Users\\96170\\source\\repos\\Quizo\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|c:\\users\\96170\\source\\repos\\quizo\\loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|solutionrelative:loginregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|c:\\users\\96170\\source\\repos\\quizo\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|c:\\users\\96170\\source\\repos\\quizo\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE2F656-AE72-4E2C-B7A7-BCED0B34C7EC}|Quizo.csproj|solutionrelative:quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\96170\\source\\repos\\Quizo\\LoginRegister.cs",
+              "RelativeDocumentMoniker": "LoginRegister.cs",
+              "ToolTip": "C:\\Users\\96170\\source\\repos\\Quizo\\LoginRegister.cs [Design]",
+              "RelativeToolTip": "LoginRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:16:43.27Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\96170\\source\\repos\\Quizo\\main1.cs",
+              "RelativeDocumentMoniker": "main1.cs",
+              "ToolTip": "C:\\Users\\96170\\source\\repos\\Quizo\\main1.cs [Design]",
+              "RelativeToolTip": "main1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:20:09.784Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "signUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\96170\\source\\repos\\Quizo\\signUp.cs",
+              "RelativeDocumentMoniker": "signUp.cs",
+              "ToolTip": "C:\\Users\\96170\\source\\repos\\Quizo\\signUp.cs [Design]",
+              "RelativeToolTip": "signUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:17:06.787Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRegister.cs",
+              "DocumentMoniker": "C:\\Users\\96170\\source\\repos\\Quizo\\LoginRegister.cs",
+              "RelativeDocumentMoniker": "LoginRegister.cs",
+              "ToolTip": "C:\\Users\\96170\\source\\repos\\Quizo\\LoginRegister.cs",
+              "RelativeToolTip": "LoginRegister.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwF0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:16:54.576Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "signUp.cs",
+              "DocumentMoniker": "C:\\Users\\96170\\source\\repos\\Quizo\\signUp.cs",
+              "RelativeDocumentMoniker": "signUp.cs",
+              "ToolTip": "C:\\Users\\96170\\source\\repos\\Quizo\\signUp.cs",
+              "RelativeToolTip": "signUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:17:09.761Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main1.cs",
+              "DocumentMoniker": "C:\\Users\\96170\\source\\repos\\Quizo\\main1.cs",
+              "RelativeDocumentMoniker": "main1.cs",
+              "ToolTip": "C:\\Users\\96170\\source\\repos\\Quizo\\main1.cs",
+              "RelativeToolTip": "main1.cs",
+              "ViewState": "AgIAAFwCAAAAAAAAAAAuwF8CAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T21:17:57.376Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\96170\\source\\repos\\Quizo\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "QuizQuestion.cs",
+              "ToolTip": "C:\\Users\\96170\\source\\repos\\Quizo\\QuizQuestion.cs",
+              "RelativeToolTip": "QuizQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T06:36:29.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
