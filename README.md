@@ -20,9 +20,3 @@ Quizo is a simple and interactive quiz application built using C# and Windows Fo
 ## 💾 Database Setup
 
 > **Note:** This application uses a local SQL Server database (created via SQL Server Management Studio) for storing and authenticating user accounts.
-
-## 🧱 Quick Database Setup
-
-1. Open SQL Server Management Studio (SSMS).
-2. Open the `create_quizo_db.sql` file from the project folder.
-3. Click **Execute** to create the database and insert sample data.
